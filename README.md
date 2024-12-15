@@ -1,4 +1,6 @@
-# Faiq Khan (FakerPK)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ff4d5d35-802d-4bfc-8f7a-1b55c2a7afe9" alt="aijaom" width="600">
+</div>
 
 <details>
   <summary>🚀 About Me</summary>
