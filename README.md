@@ -1,12 +1,22 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ff4d5d35-802d-4bfc-8f7a-1b55c2a7afe9" alt="aijaom" width="600">
 </div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1040553b-8f57-45ed-82a8-f5139cc1e597" alt="dkjbdkjn" width="1200">
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b7829a2c-9d25-400b-805e-2bc11cb09e13" alt="ihoidodboidn" width="1200">
+</div>
+
+
+
 
 <details>
   <summary>🚀 About Me</summary>
   
   Passionate developer specializing in:
-  - Python Development
+  - Python Development![dkjbdkjn](https://github.com/user-attachments/assets/9e6fc214-12b4-45c5-8671-1ea14370edc0)
+
   - Game Development
   - Blockchain Exploration
 </details>
