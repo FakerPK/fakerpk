@@ -13,6 +13,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b7829a2c-9d25-400b-805e-2bc11cb09e13" alt="ihoidodboidn" width="1200">
 </div>
+
+[Check Out My Interactive GitHub Profile](https://fakerpk-fkn5.vercel.app)
 <details>
   <summary>🚀 About Me</summary>
   
