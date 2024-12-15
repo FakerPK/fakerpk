@@ -7,38 +7,18 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b7829a2c-9d25-400b-805e-2bc11cb09e13" alt="ihoidodboidn" width="1200">
 </div>
-
-
-
-
 <details>
   <summary>🚀 About Me</summary>
   
-  Passionate developer specializing in:
-  - Python Development![dkjbdkjn](https://github.com/user-attachments/assets/9e6fc214-12b4-45c5-8671-1ea14370edc0)
-
-  - Game Development
-  - Blockchain Exploration
-</details>
-
-<details>
-  <summary>💻 Skills & Tools</summary>
+  I'm 16, a student, enthusiastic about cryptocurrency and becoming a TopG.
   
-  ![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-yellow?style=for-the-badge&logo=javascript)
-  ![Git](https://img.shields.io/badge/Git-Version_Control-orange?style=for-the-badge&logo=git)
+  ![200w](https://github.com/user-attachments/assets/778fa692-08ef-45e0-a57d-efbbc13569c1)
+
 </details>
 
-<details>
-  <summary>🌐 Connect with Me</summary>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-FakerPK-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fakerpk/)
-  [![Twitter](https://img.shields.io/badge/Twitter-FakerPK-blue?style=for-the-badge&logo=x)](https://x.com/FakerPK)
-  [![YouTube](https://img.shields.io/badge/YouTube-FakerPK-red?style=for-the-badge&logo=youtube)](https://youtube.com/c/FakerPK)
-</details>
 
-<details>
-  <summary>💸 Support My Work</summary>
+
+## 💸 Support My Work
   
   ### Crypto Wallet Addresses
   - **Solana**: `9SqcZjiUAz9SYBBLwuA9uJG4UzwqC5HNWV2cvXPk3Kro`
@@ -48,8 +28,23 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fakerpk&theme=radical&show_icons=true)
+## 🔗Socials
+  <a href="https://www.linkedin.com/in/fakerpk/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 15px;">
+</a>
+<a href="https://youtube.com/FakerPK" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="border-radius: 15px;">
+</a>
+<a href="https://x.com/FakerPK" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="X" style="border-radius: 15px;">
+</a>
+<a href="https://discord.gg/Y2zXVwKe" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius: 30px;">
+</a>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/fakerpk?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+
+## Contributions:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fakerpk/fakerpk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fakerpk/fakerpk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fakerpk/fakerpk/output/github-contribution-grid-snake.svg">
 </picture>
