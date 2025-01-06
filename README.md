@@ -1,9 +1,16 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ff4d5d35-802d-4bfc-8f7a-1b55c2a7afe9" alt="aijaom" width="600">
-</div>
+  <picture>
+    <!-- Light Mode Image -->
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/a3ac4877-e2a9-4c19-afe4-eac768bc5f22">
+    <!-- Dark Mode Image -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/eca9f084-f11e-4c32-9347-860d0fcedb61">
+    <!-- Fallback Image (used if no media query matches) -->
+    <img src="https://github.com/user-attachments/assets/light-mode-image.jpg" alt="aijaom" width="600">
+  </picture>
+</div align="center">
 <div align="center">
   <h1 style="font-size: 36px; font-weight: 500; color: #D3D3D3; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);">
-    Faiq Khan
+   🐱‍🏍Faiq Khan
   </h1>
 </div>
 
