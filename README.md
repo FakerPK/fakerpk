@@ -52,35 +52,31 @@ bc1qhx7waktcttam9q9nt0ftdguguwg5lzq5hnasmm
 </details>
 
 ## ✨Projects
-<a href="https://medium.com/@FakerPK/farm-the-getgrass-io-airdrop-with-this-farming-bot-community-node-1-25x-multiple-accounts-b032a952f9a6" target="_blank" style="text-decoration: none;">
-  <div style="border-radius: 15px; overflow: hidden; box-shadow: 0px 4px 10px rgba(0,0,0,0.15); max-width: 600px; margin: 0 auto; font-family: Arial, sans-serif; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/93dff60d-ba09-40f9-869d-0df7ebad7ad0" alt="Farm the GetGrass.io Airdrop" style="width: 30%; height: auto;">
-    <div style="padding: 15px; background-color: #ffffff;">
-      <h3 style="margin: 0; color: #000;">Farm the GetGrass.io Airdrop with this Farming Bot</h3>
-      <p style="margin: 10px 0; color: #555;">Learn how to farm multiple accounts using this bot. Airdrop rewards made easy!</p>
-      <span style="color: #1a8917; font-weight: bold;">Read on Medium →</span>
-    </div>
-  </div>
+
+### 🚜 [Farm The GetGrass.io Airdrop](https://medium.com/@FakerPK/farm-the-getgrass-io-airdrop-with-this-farming-bot-community-node-1-25x-multiple-accounts-b032a952f9a6)
+<a href="https://medium.com/@FakerPK/farm-the-getgrass-io-airdrop-with-this-farming-bot-community-node-1-25x-multiple-accounts-b032a952f9a6" target="_blank">
+    <img src="https://github.com/user-attachments/assets/93dff60d-ba09-40f9-869d-0df7ebad7ad0" alt="Farm the GetGrass.io Airdrop" width="300"> 
 </a>
 
-[Article](https://medium.com/@FakerPK/farm-the-getgrass-io-airdrop-with-this-farming-bot-community-node-1-25x-multiple-accounts-b032a952f9a6)
+<hr style="border: 1px solid #ccc; margin: 20px 0;">
 
-<a href="https://medium.com/@FakerPK/farm-the-getgrass-io-airdrop-with-this-farming-bot-community-node-1-25x-multiple-accounts-b032a952f9a6" target="_blank" style="text-decoration: none;">
-  <div style="border-radius: 15px; overflow: hidden; box-shadow: 0px 4px 10px rgba(0,0,0,0.15); max-width: 600px; margin: 0 auto; font-family: Arial, sans-serif; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/3a3badae-69f1-4fc2-b015-595bd581b031" alt="Farm the GetGrass.io Airdrop" style="width: 30%; height: auto;">
-    <div style="padding: 15px; background-color: #ffffff;">
-      <h3 style="margin: 0; color: #000;">Bless Network Bot v1.0 — Automate Node Management and Mining</h3>
-      <p style="margin: 10px 0; color: #555;">Automate your Bless Network node management with this Python-based script.</p>
-      <span style="color: #1a8917; font-weight: bold;">Read on Medium →</span>
-    </div>
-  </div>
+### 🌱 [Farm The Bless Network Airdrop](https://medium.com/@FakerPK/bless-network-bot-v1-0-automate-node-management-and-mining-6f017d47bb44)
+<a href="https://medium.com/@FakerPK/bless-network-bot-v1-0-automate-node-management-and-mining-6f017d47bb44" target="_blank">
+    <img src="https://github.com/user-attachments/assets/3a3badae-69f1-4fc2-b015-595bd581b031" alt="Farm the Bless Network Airdrop" width="300"> 
 </a>
 
-[
-Article
-](https://medium.com/@FakerPK/bless-network-bot-v1-0-automate-node-management-and-mining-6f017d47bb44)
+<hr style="border: 1px solid #ccc; margin: 20px 0;">
+
+### 🤖 [Farm The DePINed Airdrop](https://medium.com/@FakerPK/farm-the-depined-airdrop-with-my-depined-network-automated-farming-bot-for-100-uptime-0ab41c5a36b8)
+<a href="https://medium.com/@FakerPK/farm-the-depined-airdrop-with-my-depined-network-automated-farming-bot-for-100-uptime-0ab41c5a36b8" target="_blank">
+    <img src="https://github.com/user-attachments/assets/874a9083-e4bb-429e-a90a-a2028d5b8845" alt="Farm the DePINed Airdrop" width="400"> 
+</a>
+
+<hr style="border: 1px solid #ccc; margin: 20px 0;">
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fakerpk&theme=radical&show_icons=true)
+    
 ## 🔗Socials
   <a href="https://www.linkedin.com/in/fakerpk/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 15px;"> </a> <a href="https://youtube.com/FakerPK" target="_blank">
