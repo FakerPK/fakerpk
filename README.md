@@ -75,7 +75,9 @@ bc1qhx7waktcttam9q9nt0ftdguguwg5lzq5hnasmm
 <hr style="border: 1px solid #ccc; margin: 20px 0;">
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fakerpk&theme=radical&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FakerPK&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
+![FakerPK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FakerPK&theme=slateorange&hide_border=true)
+![FakerPK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FakerPK&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
     
 ## 🔗Socials
   <a href="https://www.linkedin.com/in/fakerpk/" target="_blank">
