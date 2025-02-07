@@ -31,22 +31,16 @@
   ![200w](https://github.com/user-attachments/assets/778fa692-08ef-45e0-a57d-efbbc13569c1)
 
 </details>
-
+<!-- Neon Orange Icons Medium (48px) -->
 <p align="center">
-  <a href="https://youtube.com/FakerPK"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/fakerpk/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/FakerPK"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/Y2zXVwKe" alt="Discord" title="FakerPK's Degen Brokies Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Dev.to" title="Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+  <a href="https://youtube.com/FakerPK"><img width="60px" alt="Youtube" src="https://img.icons8.com/fluency/96/FFA500/youtube-play.png"/></a> &#8287;
+  <a href="https://www.linkedin.com/in/fakerpk/"><img width="60px" alt="LinkedIn" src="https://img.icons8.com/color-glass/96/FFA500/linkedin.png"/></a> &#8287;
+  <a href="https://twitter.com/FakerPK"><img width="60px" alt="Twitter" src="https://img.icons8.com/fluency/96/FFA500/twitter.png"/></a> &#8287;
+  <a href="https://discord.gg/Y2zXVwKe"><img width="60px" alt="Discord" src="https://img.icons8.com/fluency/96/FFA500/discord-logo.png"/></a> &#8287;
+  <a href="https://dev.to/fakerpk"><img width="60px" alt="Dev.to" src="https://img.icons8.com/windows/96/FFA500/dev.png"></a> &#8287;
+  <a href="https://medium.com/@FakerPK"><img width="60px" src="https://img.icons8.com/ios-filled/96/F0F0EC/medium-monogram.png" alt="Medium"></a>&#8287;
 </p>
+
 
 ## 💸 Support My Work
   
@@ -62,6 +56,10 @@
   - **BTC**:
 ```json
 bc1qhx7waktcttam9q9nt0ftdguguwg5lzq5hnasmm
+```
+  - **SUI**
+```javascript
+0x1f928f99c3c17813239363a1c7ee958529786947e837c544e3aa2b88216c1be8
 ```
 </details>
 
