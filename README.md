@@ -40,6 +40,12 @@
   <a href="https://dev.to/fakerpk"><img width="60px" alt="Dev.to" src="https://img.icons8.com/windows/96/FFA500/dev.png"></a> &#8287;
   <a href="https://medium.com/@FakerPK"><img width="60px" src="https://img.icons8.com/ios-filled/96/F0F0EC/medium-monogram.png" alt="Medium"></a>&#8287;
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FakerPK&style=for-the-badge&color=orange&label=PEOPLE+WHO+VIEWED+MY+PROFILE:" alt="Profile view counter">
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/fakerpk?color=orange&style=for-the-badge&logo=github&label=Follow"/>        
+</p>
+
+
 
 
 ## 💸 Support My Work
@@ -99,8 +105,6 @@ bc1qhx7waktcttam9q9nt0ftdguguwg5lzq5hnasmm
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius: 30px;"> <a href="https://medium.com/@FakerPK" target="_blank">
   <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="border-radius: 30px;">
 </a> </a>
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/fakerpk?color=236ad3&style=for-the-badge&logo=github&label=Follow"/> 
-
 ## Contributions:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fakerpk/fakerpk/output/github-contribution-grid-snake-dark.svg">
