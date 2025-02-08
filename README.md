@@ -105,6 +105,7 @@ bc1qhx7waktcttam9q9nt0ftdguguwg5lzq5hnasmm
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius: 30px;"> <a href="https://medium.com/@FakerPK" target="_blank">
   <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="border-radius: 30px;">
 </a> </a>
+
 ## Contributions:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fakerpk/fakerpk/output/github-contribution-grid-snake-dark.svg">
