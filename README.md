@@ -33,6 +33,7 @@
 </details>
 <!-- Neon Orange Icons Medium (48px) -->
 <p align="center">
+  <a href="https://t.me/+rurxli5cagplMjM8"><img width="60px" alt="Telegram" src="https://img.icons8.com/fluency/96/0088CC/telegram-app.png"/></a>
   <a href="https://youtube.com/FakerPK"><img width="60px" alt="Youtube" src="https://img.icons8.com/fluency/96/FFA500/youtube-play.png"/></a> &#8287;
   <a href="https://www.linkedin.com/in/fakerpk/"><img width="60px" alt="LinkedIn" src="https://img.icons8.com/color-glass/96/FFA500/linkedin.png"/></a> &#8287;
   <a href="https://twitter.com/FakerPK"><img width="60px" alt="Twitter" src="https://img.icons8.com/fluency/96/FFA500/twitter.png"/></a> &#8287;
