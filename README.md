@@ -41,8 +41,10 @@
   <a href="https://medium.com/@FakerPK"><img width="60px" src="https://img.icons8.com/ios-filled/96/F0F0EC/medium-monogram.png" alt="Medium"></a>&#8287;
 </p>
 <p align="center">
+<a href="https://github.com/FakerPK/" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=FakerPK&style=for-the-badge&color=orange&label=PEOPLE+WHO+VIEWED+MY+PROFILE:" alt="Profile view counter">
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/fakerpk?color=orange&style=for-the-badge&logo=github&label=Follow"/>        
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/fakerpk?color=orange&style=for-the-badge&logo=github&label=Follow"/> 
+</a>
 </p>
 
 
