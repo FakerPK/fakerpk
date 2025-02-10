@@ -37,7 +37,7 @@
   <a href="https://youtube.com/FakerPK"><img width="60px" alt="Youtube" src="https://img.icons8.com/fluency/96/FFA500/youtube-play.png"/></a> &#8287;
   <a href="https://www.linkedin.com/in/fakerpk/"><img width="60px" alt="LinkedIn" src="https://img.icons8.com/color-glass/96/FFA500/linkedin.png"/></a> &#8287;
   <a href="https://twitter.com/FakerPK"><img width="60px" alt="Twitter" src="https://img.icons8.com/fluency/96/FFA500/twitter.png"/></a> &#8287;
-  <a href="https://discord.gg/Y2zXVwKe"><img width="60px" alt="Discord" src="https://img.icons8.com/fluency/96/FFA500/discord-logo.png"/></a> &#8287;
+  <a href="https://discord.gg/mjzgatMCk8"><img width="60px" alt="Discord" src="https://img.icons8.com/fluency/96/FFA500/discord-logo.png"/></a> &#8287;
   <a href="https://dev.to/fakerpk"><img width="60px" alt="Dev.to" src="https://img.icons8.com/windows/96/FFA500/dev.png"></a> &#8287;
   <a href="https://medium.com/@FakerPK"><img width="60px" src="https://img.icons8.com/ios-filled/96/F0F0EC/medium-monogram.png" alt="Medium"></a>&#8287;
 </p>
@@ -104,7 +104,7 @@ bc1qhx7waktcttam9q9nt0ftdguguwg5lzq5hnasmm
   <a href="https://www.linkedin.com/in/fakerpk/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 15px;"> </a> <a href="https://youtube.com/FakerPK" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="border-radius: 15px;"> </a> <a href="https://x.com/FakerPK" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" style="border-radius: 15px;"> </a> <a href="https://discord.gg/Y2zXVwKe" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" style="border-radius: 15px;"> </a> <a href="https://discord.gg/mjzgatMCk8" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius: 30px;"> <a href="https://medium.com/@FakerPK" target="_blank">
   <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="border-radius: 30px;">
 </a> </a>
